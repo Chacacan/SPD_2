@@ -7,7 +7,7 @@ Jonathan Murray
 Juan Paredes
 ## parte 3 link:
 https://www.tinkercad.com/things/9npLVLJMv59?sharecode=iC0SAvx4eAh9Grcwu1RYz76RF--dTMWpPETXHxgodBE
-![Tinkercad](./img/tp_parte_3.png)
+![Tinkercad](./img3/tp_parte_3.png)
 ## Proyecto:
 •	Sensor de temperatura, con display y accionador de motor dc.
 •	Contador de activación por pulsadores. Cuenta números primos y Cuenta de 0 a 99
