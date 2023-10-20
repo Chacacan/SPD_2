@@ -1,7 +1,5 @@
 # SPD_2
-Sistemas de procesamiento de datos TP 1
-Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
-![Tinkercad](./img/ContadorBinario.png)
+![Tinkercad](./img/ArduinoTinkercad.jpg)
 
 ## Integrantes:
 Nicolas Moreyra
