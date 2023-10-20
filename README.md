@@ -38,3 +38,5 @@ Contador de activación por pulsadores. Cuenta números primos del 0 a 99
 4-	Si la temperatura supera los 25° hasta los 90° funcionara el motor en su primera velocidad que es de valor de velocidad 127 (50% duty cicle, del pulso que envía pwm que modula el ancho del pulso)
 5-	Si la temperatura supera los 90° funcionara el motor en su segunda velocidad que es de valor de velocidad 255 (100% duty cicle, del pulso que envía pwm)
 ## Datos de TMP36
+![Tinkercad](./img/datasheet1tmp.png) ![Tinkercad](./img/datasheet2tmp.jpg) 
+
